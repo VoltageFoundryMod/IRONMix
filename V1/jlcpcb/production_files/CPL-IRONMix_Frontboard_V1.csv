@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,LineIn1,EighthInch_Stereo_PJ366ST,69.1794,-54.0,0.0,top
+J10,Socket_02x05_P2.54mm_H5mm_TH,Socket_2x05_2.54mm_TH,68.7,-46.33,90.0,bottom
+J11,Socket_02x05_P2.54mm_H5mm_TH,Socket_2x05_2.54mm_TH,68.67,-151.03,90.0,bottom
+J12,Socket_02x05_P2.54mm_H5mm_TH,Socket_2x05_2.54mm_TH,79.47,-50.25,180.0,bottom
+J2,LineIn2,EighthInch_Stereo_PJ366ST,75.1636,-64.55,180.0,top
+J3,In_L,EighthInch_PJ398SM,66.95,-115.2706,90.0,top
+J4,In_R,EighthInch_PJ398SM,77.65,-115.2706,90.0,top
+J5,Out_L,EighthInch_PJ398SM,66.95,-101.7734,-90.0,top
+J6,Out_R,EighthInch_PJ398SM,77.65,-101.7734,-90.0,top
+J9,HeadphoneOut,EighthInch_Stereo_PJ366ST,73.7766,-142.45,0.0,top
+POT2,9mm_Dual_50k_DShaft_DualRow,Potentiometer_Alps_RK09L_Double_Vertical,72.4,-129.85,-90.0,top
+R11,510,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,67.0,-64.65,-90.0,top
+R13,510,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,63.9,-64.65,-90.0,top
+R15,510,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,80.4,-74.85,-90.0,top
+R17,510,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,63.8,-90.11,90.0,top
+RV1,50kB,Potentiometer_Alps_RK09L_Double_Vertical,72.0,-76.15,-90.0,top
+RV2,50kB,Potentiometer_Alps_RK09L_Double_Vertical,72.35,-88.75,90.0,top
