@@ -1,12 +1,12 @@
 # IRONMix Eurorack Module
 
-<img src="./Images/IRONMix.png" alt="Logo" style="width:50%"/>
+<img src="./Images/IRONMix_Logo.png" alt="Logo" style="width:50%"/>
 
 ## Overview
 
 Voltage Foundry Modular *IRONMix* is a dual-function Eurorack Module in 4HP. It is a line in mixer with 2 stereo inputs and Left/Right modular-level outputs and in it's lower section it is an output module with Left/Right modular-level inputs and a stereo output capable of driving headphones or line-level gear.
 
-<img src="./Images/IRONMix_Front.png" alt="Module" style="width:20%"/>
+<img src="./Images/IronMix_Front.png" alt="Module Front" style="width:20%"/>
 
 ## Features and Tips
 
@@ -32,7 +32,7 @@ In the back of the module, the jumpers can be used to configure some aspects of 
   - If no jumper is connected, the output section does not receive the signals from the inputs if nothing is connected.
 - **Input 1/2 Level**: These jumpers are used in pairs to configure the input level of the line in section. If the jumper is not installed, the module accepts line level and even lower signals like guitars. If the jumper is installed, the module accepts modular level signals (10Vpp). This option together with a stereo to 2x mono patch cable can be used to make the module 2x left + 2x right mixer.
 
-<img src="./Images/IRONMix_Back.png" alt="Module" style="width:20%"/>
+<img src="./Images/IRONMix_Back.png" alt="Module Back" style="width:20%"/>
 
 ## Specifications
 
@@ -56,18 +56,17 @@ Parts of the module design are based on the Mutable Instruments Ears and the Bef
 
 In addition to the PCB, the following components are required to assemble the module:
 
-| Quantity | Description |
-| ------------- | ------------- |
-| 4   | 510R resistor 1/8W 5%(or less) |
-| 3   | Stereo 3.5mm Thonkiconn jack (green)  |
-| 4   | Mono 3.5mm Thonkiconn jack (black)   |
-| 2   | 50kB 9mm Vertical dual gang potentiometer (linear stereo) RK09L   |
-| 1   | 100KB 9mm Vertical dual gang potentiometer (linear stereo) RK09L   |
-| 4   | 2x5 pin header (2.54mm pitch)   |
-| 3   | 2x5 female connector headers (2.54mm pitch)   |
-| 1   | 2x3 pin header (2.54mm pitch)   |
-| 2   | 2x2 pin header (2.54mm pitch)   |
-
+| Quantity | Description                                                      |
+| -------- | ---------------------------------------------------------------- |
+| 4        | 510R resistor 1/8W 5%(or less)                                   |
+| 3        | Stereo 3.5mm Thonkiconn jack (green)                             |
+| 4        | Mono 3.5mm Thonkiconn jack (black)                               |
+| 2        | 50kB 9mm Vertical dual gang potentiometer (linear stereo) RK09L  |
+| 1        | 100KB 9mm Vertical dual gang potentiometer (linear stereo) RK09L |
+| 4        | 2x5 pin header (2.54mm pitch)                                    |
+| 3        | 2x5 female connector headers (2.54mm pitch)                      |
+| 1        | 2x3 pin header (2.54mm pitch)                                    |
+| 2        | 2x2 pin header (2.54mm pitch)                                    |
 
 ## Assembly Instructions
 
@@ -95,9 +94,9 @@ The pin headers go on the back of the PCB (where the logos are) and the female c
 
 Refer to the pictures below for details:
 
-<img src="./Images/PCB_Front.png" alt="Module" style="width:40%"/>
+<img src="./Images/PCB_Front.png" alt="PCB Front" style="width:40%"/>
 
-<img src="./Images/PCB_Back.png" alt="Module" style="width:40%"/>
+<img src="./Images/PCB_Back.png" alt="PCB Back" style="width:40%"/>
 
 To assemble the module, follow these steps:
 
