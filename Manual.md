@@ -32,7 +32,7 @@ In the back of the module, the jumpers can be used to configure some aspects of 
   - If no jumper is connected, the output section does not receive the signals from the inputs if nothing is connected.
 - **Input 1/2 Level**: These jumpers are used in pairs to configure the input level of the line in section. If the jumper is not installed, the module accepts line level and even lower signals like guitars. If the jumper is installed, the module accepts modular level signals (10Vpp). This option together with a stereo to 2x mono patch cable can be used to make the module 2x left + 2x right mixer.
 
-<img src="./Images/IRONMix_Back.png" alt="Module Back" style="width:20%"/>
+<img src="./Images/IronMix_Back.png" alt="Module Back" style="width:20%"/>
 
 ## Specifications
 
