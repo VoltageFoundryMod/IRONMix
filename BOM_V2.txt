@@ -1,0 +1,16 @@
+﻿Bill of Materials (BOM):
+
+Jacks Board:
+
+3x Stereo Thonkiconn jacks (PJ366ST - green)
+3x Dual Gang 100kA (audio taper) vertical potentiometer (9mm shaft)
+4x Thonkiconn jack (PJ301CM)
+3x 2x5 pin header for board interconnection
+
+
+Main Board:
+
+3x 2x5 pin socket for board interconnection
+1x 2x5 pin header for power input
+1x 2x3 pin header for normalization jumper
+4x 1x2 pin header for input jumper
